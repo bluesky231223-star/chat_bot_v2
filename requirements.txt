@@ -4,3 +4,4 @@ requests
 sentence-transformers
 numpy
 torch
+gunicorn==22.0.0
